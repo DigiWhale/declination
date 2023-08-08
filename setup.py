@@ -8,7 +8,7 @@ setup(
     author='Andrew Humphrey',  # Replace with your name
     author_email='digiwhale.humphrey@gmail.com',  # Replace with your email
     license='MIT',  # Assuming MIT, but replace if different
-    url='https://github.com/digiwhale/declination',  # Replace with your repository or homepage URL
+    url='https://github.com/DigiWhale/declination',  # Replace with your repository or homepage URL
     install_requires=[
         # No third-party dependencies based on the imports you've mentioned
     ],
